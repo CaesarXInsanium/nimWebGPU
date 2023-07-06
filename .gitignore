@@ -1,0 +1,4 @@
+wgpu/
+webgpu
+wgpu/libwgpu_native.so
+wgpu/libwgpu_native.a
